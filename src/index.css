@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'OpenSans-Regular';
+  src: url('./assets/fonts/OpenSans-Regular.woff2') format('woff2');
+  font-weight: 400;
+}
+
 /* CSS styles reset */
 
 html, body, div, span, applet, object, iframe,
@@ -75,3 +81,10 @@ a {
 }
 
 /* end CSS styles reset */
+
+body {
+  font-family: 'OpenSans-Regular', sans-serif;
+  font-size: 1.8rem;
+  margin: auto;
+  max-width: 1300px;
+}
