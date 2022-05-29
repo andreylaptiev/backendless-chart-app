@@ -1,0 +1,21 @@
+.input {
+  background-color: #fff;
+  border: 1px solid #000;
+  height: 40px;
+  padding: 5px 10px;
+  width: 100%;
+}
+
+.input:focus {
+  outline: 1px solid #000;
+}
+
+.input::placeholder {
+  color: #9d9d9d;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
