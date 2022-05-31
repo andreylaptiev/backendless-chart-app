@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/backendless-chart-app/static/css/main.9d1405dc.css",
+    "main.js": "/backendless-chart-app/static/js/main.f4d5c2bc.js",
+    "static/media/OpenSans-Regular.woff2": "/backendless-chart-app/static/media/OpenSans-Regular.6fdfc32f958aca18e06f.woff2",
+    "index.html": "/backendless-chart-app/index.html",
+    "main.9d1405dc.css.map": "/backendless-chart-app/static/css/main.9d1405dc.css.map",
+    "main.f4d5c2bc.js.map": "/backendless-chart-app/static/js/main.f4d5c2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d1405dc.css",
+    "static/js/main.f4d5c2bc.js"
+  ]
+}
