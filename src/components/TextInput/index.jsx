@@ -5,7 +5,7 @@ import styles from './TextInput.module.css';
 const TextInput = ({id, label, ...props}) => {
   return (
     <div className={styles.inputContainer}>
-      <label htmlFor={id}>{label}</label>
+      <label className={styles.label} htmlFor={id}>{label}</label>
       <input
         className={styles.input}
         id={id}

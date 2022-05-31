@@ -19,3 +19,7 @@
   flex-direction: column;
   gap: 7px;
 }
+
+.label {
+  pointer-events: none;
+}
